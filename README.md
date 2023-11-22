@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **achibaahgagr/achibaahgagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 梁欢
+
+## 自我简介
+
+我是来自于华中师范大学计算机学院的一名学生，专业为计算机科学与技术，我目前已经学习了数据结构，计算机网络，计算机组成原理等课程。我平时喜欢运动，我喜欢的运动是篮球。
+
+## 项目经验
+
+* 在实训的时候与小组成员一起进行淘兴趣论坛系统的开发
+
+## 掌握技能
+
+* 熟悉python，C++，Java
+* 前端HTML语言
+* 熟悉使用CSS
