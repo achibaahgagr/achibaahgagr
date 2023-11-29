@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 # 梁欢
 
-<!---![个人照片](images\mmexport1630913166975.jpg)--->
-<img src="images/mmexport1630913166975.jpg" width="150" height="150" title="个人照片">
+<!---![个人照片](mmexport1630913166975.jpg)--->
+<img src="mmexport1630913166975.jpg" width="150" height="150" title="个人照片">
 
 ## 自我简介
 
