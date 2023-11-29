@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 # 梁欢
 
+<!---![个人照片](C:\Users\14727\Desktop\那只猫\mmexport1630913166975.jpg)--->
+<img src="C:/Users/14727/Desktop/那只猫/mmexport1630913166975.jpg" width="150" height="150" title="个人照片">
+
 ## 自我简介
 
 我是来自于华中师范大学计算机学院的一名学生，专业为计算机科学与技术，我目前已经学习了数据结构，计算机网络，计算机组成原理等课程。我平时喜欢运动，我喜欢的运动是篮球。
